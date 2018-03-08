@@ -9,10 +9,18 @@ body {
 .card {
     height: 400px;
     width: 200px;
+    box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.5);
 }
 
 .aboutText {
-    color: silver;
-    font-size: 28px;
-    line-height: 40px;
+    color: black;
+    font-size: 36px;
+    line-height: 52px;
+}
+
+.nav-link {
+    color: black;
+}
+.nav-link:hover, .nav-link:active{
+    color: white;
 }
