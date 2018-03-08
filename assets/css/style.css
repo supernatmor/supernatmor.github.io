@@ -1,0 +1,18 @@
+body {
+    background-image: url("http://sf.co.ua/16/11/wallpaper-53b1.jpg");
+    background-color: silver;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
+}
+
+.card {
+    height: 400px;
+    width: 200px;
+}
+
+.aboutText {
+    color: silver;
+    font-size: 28px;
+    line-height: 40px;
+}
