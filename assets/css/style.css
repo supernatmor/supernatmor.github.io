@@ -16,6 +16,7 @@ body {
     color: black;
     font-size: 36px;
     line-height: 52px;
+    
 }
 
 .nav-link {
@@ -23,4 +24,9 @@ body {
 }
 .nav-link:hover, .nav-link:active{
     color: white;
+}
+
+.myImg {
+    margin: 10px;
+    border-radius: 20px;
 }
