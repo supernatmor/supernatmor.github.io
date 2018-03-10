@@ -5,6 +5,9 @@ body {
     background-attachment: fixed;
     background-position: center;
 }
+header {
+    margin-bottom: 80px;
+}
 
 .card-img-top {
     border-radius: 20px;
