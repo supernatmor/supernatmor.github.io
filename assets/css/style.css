@@ -3,26 +3,29 @@ body {
     background-color: silver;
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-position: center; 
+    background-position: center;
 }
 
-.card {
-    height: 400px;
-    width: 200px;
+.card-img-top {
+    border-radius: 20px;
     box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.5);
+    margin-bottom: 15px;
+    height: 200px;
+    width: 250px;
 }
 
 .aboutText {
     color: black;
     font-size: 36px;
     line-height: 52px;
-    
 }
 
 .nav-link {
     color: black;
 }
-.nav-link:hover, .nav-link:active{
+
+.nav-link:hover,
+.nav-link:active {
     color: white;
 }
 
