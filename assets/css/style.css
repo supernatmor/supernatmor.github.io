@@ -11,6 +11,14 @@ header {
     margin-bottom: 80px;
 }
 
+h1, h2 {
+    font-weight: 500;
+}
+
+h1 {
+    font-size: 44px;
+}
+
 .aboutText {
     color: black;
     font-size: 20px;
